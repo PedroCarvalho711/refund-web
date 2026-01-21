@@ -17,8 +17,6 @@ Frontend do sistema **Refund**, responsável por fornecer uma interface web mode
 - [Executando o Projeto](#executando-o-projeto)
 - [Testes](#testes)
 - [Aprendizados](#aprendizados)
-- [Licença](#licenca)
-- [Contato](#contato)
 
 ---
 
